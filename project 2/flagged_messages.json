@@ -1,0 +1,34 @@
+[
+    {
+        "user": "hala",
+        "date": "2025-04-21 16:33:04",
+        "message": "ugly",
+        "detected_keywords": [
+            "ugly"
+        ]
+    },
+    {
+        "user": "hala",
+        "date": "2025-04-21 16:33:17",
+        "message": "ugly",
+        "detected_keywords": [
+            "ugly"
+        ]
+    },
+    {
+        "user": "hala",
+        "date": "2025-04-21 16:33:32",
+        "message": "so ugly",
+        "detected_keywords": [
+            "ugly"
+        ]
+    },
+    {
+        "user": "farah",
+        "date": "2025-04-21 16:33:47",
+        "message": "loser",
+        "detected_keywords": [
+            "loser"
+        ]
+    }
+]
