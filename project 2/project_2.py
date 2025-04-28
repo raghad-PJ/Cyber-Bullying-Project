@@ -14,7 +14,7 @@ keywords = ["stupid", "dumb", "idiot", "moron", "retard", "dumbass", "idiotic", 
   "worthless", "you're nothing", "nobody cares", "nobody loves you",
   "loser", "nobody likes you", "you're trash", "hopeless", "go away", "get lost",
   "kill", "die", "go to hell", "burn in hell", "kill yourself",
-  "shit", "bullshit", "cunt", "bastard", "bastards",
+  "shit", "bullshit", 
   "douche", "douchebag", "scumbag", "jerk",
   "scum", "trash", "disgusting", "creep", "weirdo", "worthless piece",
   "shut up", "suck", "hate"]
